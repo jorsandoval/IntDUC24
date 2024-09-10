@@ -1,4 +1,5 @@
 # Intelificio
+Proyecto para obtener Titulo de Ingeniería Informática Duoc UC 2024.
 
 ## Descripción del Proyecto
 
@@ -21,9 +22,9 @@ El proyecto será desarrollado bajo la metodología Scrum, dividiendo el trabajo
 
 ## Equipo del Proyecto
 
-- **Vicente Espinosa** (Product Owner)
-- **Fabian Jaque** (Scrum Master)
-- **Jorge Sandoval** (Desarrollador Full-Stack)
+- **Fabian Jaque** (Product Owner)
+- **Jorge Sandoval** (Scrum Master)
+- **Vicente Espinosa** (Desarrollador Full-Stack)
 
 ## Tecnologías Utilizadas
 - **Frontend:** React.js
