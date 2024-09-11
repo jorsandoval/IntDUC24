@@ -1,5 +1,5 @@
 # Intelificio
-Proyecto para obtener Titulo de Ingeniería Informática Duoc UC 2024.
+Proyecto para obtener Titulo de Ingeniería Informática en Duoc UC 2024.
 
 ## Descripción del Proyecto
 
