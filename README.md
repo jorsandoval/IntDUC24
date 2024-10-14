@@ -22,14 +22,15 @@ El proyecto será desarrollado bajo la metodología Scrum, dividiendo el trabajo
 
 ## Equipo del Proyecto
 
-- **Fabian Jaque** (Product Owner)
-- **Jorge Sandoval** (Scrum Master)
 - **Vicente Espinosa** (Desarrollador Full-Stack)
+- **Jorge Sandoval** (Scrum Master/Developer)
+- **Fabian Jaque** (Product Owner/Developer)
+
 
 ## Tecnologías Utilizadas
-- **Frontend:** React.js
-- **Backend:** Node.js con Express
-- **Base de datos:** PostgreSQL
+- **Frontend:** Angular 18
+- **Backend:** .NET 8 
+- **Base de datos:** MySQL
 - **Plataforma de despliegue:** Azure
 
 ## Instalación
